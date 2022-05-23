@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**devtsp/devtsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *I'm Tomas, from Cordoba - Argentina* ⚪🔵
 
-Here are some ideas to get you started:
+I'm a self-taught developer, interested in all related to **web development**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Javascript* and *Node* are my main languajes but I'm currently diving into *Java* to strengthen my back-end OOP skills 🐱‍🏍
+
+---
+
+### Besides programming I love:
+
+- ⛰ treking 
+
+- 🏀 playing basketball
+
+- 🎸 playing guitar and sing (in fact I'm an actual guitar teacher)
+
+- 🍻 and of course hanging with friends whenever possible!!
+
+---
+
+### 📫  paeztms@gmail.com
+
+### 💻  [porfolio](https://devtsp.github.io/devtsp-portfolio/)
