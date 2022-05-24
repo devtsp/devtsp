@@ -22,4 +22,4 @@ I'm a self-taught developer, interested in all related to **web development**.
 
 ### 📫  paeztms@gmail.com
 
-### 💻  [porfolio](https://devtsp.github.io/devtsp-portfolio/)
+### 💻  [porfolio](https://devtsp.github.io/devtsp-portfolio-client/)
