@@ -1,25 +1,9 @@
-# Hi there! 👋
+## I'm a self-taught developer from Cordoba (Argentina), interested in all related to **web development**. 
+The stack I feel more confident working with is React (Router, Axios, Redux), MongoDB (Mongoose), MySQL (Prisma, Sequelize), Node (Express), GraphQL (Apollo), Jest and Cypress.
 
-### *I'm Tomas, from Cordoba - Argentina* ⚪🔵
-
-I'm a self-taught developer, interested in all related to **web development**. 
-
-*Javascript* and *Node* are my main languajes but I'm currently diving into *Java* to strengthen my back-end OOP skills 🐱‍🏍
-
----
-
-### Besides programming I love:
-
-- ⛰ treking 
-
-- 🏀 playing basketball
-
-- 🎸 playing guitar and sing (in fact I'm an actual guitar teacher)
-
-- 🍻 and of course hanging with friends whenever possible!!
-
----
+My interest as a self-taught developer is to constantly progress towards bolder and cleaner coding practices; help others whenever possible and learn all I can from more experienced developers. 
 
 ### 📫  paeztms@gmail.com
 
-### 💻  [porfolio](https://devtsp.github.io/devtsp-portfolio-client/)
+
+### 💻  [portfolio](https://devtsp.github.io/devtsp-portfolio-client/)
