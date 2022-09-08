@@ -6,4 +6,4 @@ My interest as a self-taught developer is to constantly progress towards bolder 
 ### 📫  paeztms@gmail.com
 
 
-### 💻  [portfolio](https://devtsp.github.io/devtsp-portfolio-client/)
+### 💻  [portfolio](https://devtsp-portfolio-client.vercel.app/)
