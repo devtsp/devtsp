@@ -1,9 +1,12 @@
-## I'm a self-taught developer from Cordoba (Argentina), interested in all related to **web development**. 
-The stack I feel more confident working with is React (Axios, Redux), MongoDB (Mongoose), MySQL (Prisma, Sequelize), Node (Express), GraphQL (Apollo), Jest (RTL, Supertest) and Cypress.
+## Full-stack developer at **Devlights**
 
-My interest as a self-taught developer is to constantly progress towards bolder and cleaner coding practices; help others whenever possible and learn all I can from more experienced developers. 
+My interests as a software dev are:
+- Progress towards bolder and cleaner coding practices
+- Help my team and learn all I can from my colleagues
+- Improve my communication skills to enhance information exchange between the dev teams and other less technical-related departments
+- Deliver value to the client and clarity about the processes involved in building quality software
+- Create meaningful relations with the people involved in the projects I work
+
+Check my portfolio [here](https://devtsp-portfolio-client.vercel.app/) (only public github repos containing side/personal projects)
 
 ### 📫  paeztms@gmail.com
-
-
-### 💻  [portfolio](https://devtsp-portfolio-client.vercel.app/)
