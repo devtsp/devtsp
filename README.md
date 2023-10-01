@@ -7,6 +7,6 @@ My interests as a software dev are:
 - Deliver value to the client and clarity about the processes involved in building quality software
 - Create meaningful relations with the people involved in the projects I work
 
-Check my portfolio [here](https://devtsp-portfolio-client.vercel.app/) (only public github repos containing side/personal projects)
+ [Check my portfolio!](https://devtsp-portfolio-client.vercel.app/)
 
 ### 📫  paeztms@gmail.com
